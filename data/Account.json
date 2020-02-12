@@ -1,0 +1,532 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Industry": "Chemicals",
+            "Name": "Ohana Inc",
+            "NumberOfEmployees": 6655,
+            "Phone": "1(800)334-2321",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Industry": "Apparel",
+            "Name": "Albert Incorporated",
+            "NumberOfEmployees": 456,
+            "Phone": "8315543211",
+            "Type": "Customer",
+            "Website": "albertinc.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Travel Experts"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "AnnualRevenue": 4000000000,
+            "BillingCity": "San Francisco",
+            "BillingCountry": "United States",
+            "BillingPostalCode": "94105",
+            "BillingState": "CA",
+            "BillingStreet": "350 Mission Street",
+            "Description": "Hottest tech company in Silicon Valley. Specializes in AI and IoT across various industries from Manufacturing to Biotech and Finance. Focus is primarily B2B, but is looking to make a big move soon into B2C market.",
+            "Fax": "415-009-0811",
+            "Industry": "Technology",
+            "Name": "Stevens Capital",
+            "NumberOfEmployees": 22000,
+            "Phone": "415-012-0214",
+            "ShippingCity": "San Francisco",
+            "ShippingCountry": "United States",
+            "ShippingPostalCode": "94105",
+            "ShippingState": "CA",
+            "ShippingStreet": "50 Fremont Street",
+            "Type": "Customer",
+            "Website": "www.stevenscapital.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
+            "AnnualRevenue": 1000000000,
+            "Description": "Stark Ventures is a multinational industrial company and the largest manufacturing conglomerate in the world. Founded in 1939.",
+            "Name": "Stark Ventures",
+            "NumberOfEmployees": 10000,
+            "Phone": "(800) 987-6543"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef6"
+            },
+            "AnnualRevenue": 5000000000,
+            "Name": "Bluth Developers",
+            "NumberOfEmployees": 20,
+            "Phone": "(800) 567-1239"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef7"
+            },
+            "AnnualRevenue": 8000000000,
+            "Industry": "Utilities",
+            "Name": "Lex Chemicals",
+            "NumberOfEmployees": 15000,
+            "Phone": "(800) 981-1265"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef8"
+            },
+            "AnnualRevenue": 20000000000,
+            "Industry": "Entertainment",
+            "Name": "Wally Worldwide Studios",
+            "NumberOfEmployees": 580,
+            "Phone": "(800) 800-8918"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef9"
+            },
+            "BillingCity": "Armonk",
+            "BillingCountry": "United States",
+            "BillingPostalCode": "10504",
+            "BillingState": "NY",
+            "BillingStreet": "1 North Castle Drive",
+            "Industry": "Technology",
+            "Name": "International Business Machines",
+            "Phone": "917-334-5421",
+            "Type": "Customer",
+            "Website": "www.ibm.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef10"
+            },
+            "AnnualRevenue": 2000000000,
+            "Industry": "Entertainment",
+            "Name": "Panasonic Avionics",
+            "NumberOfEmployees": 10000,
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef11"
+            },
+            "Name": "Cerner Corporation",
+            "Phone": "4165551234",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef12"
+            },
+            "Industry": "Finance",
+            "Name": "Woodward Markwell"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef13"
+            },
+            "Name": "British Airways"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef14"
+            },
+            "AnnualRevenue": 30000000,
+            "Industry": "Hospitality",
+            "Name": "KSD",
+            "NumberOfEmployees": 60,
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef15"
+            },
+            "Name": "Adam Family"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef16"
+            },
+            "Industry": "Construction",
+            "Name": "Abb limited",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef17"
+            },
+            "AnnualRevenue": 1000000,
+            "Industry": "Construction",
+            "Name": "Amity university",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef18"
+            },
+            "Name": "Vango Brokers",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef19"
+            },
+            "Name": "A J Gallagher"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef20"
+            },
+            "Name": "Lowe's"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef21"
+            },
+            "Name": "Waysahead",
+            "Phone": "99200183465",
+            "Type": "Partner"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef22"
+            },
+            "Name": "IBM Australia"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef23"
+            },
+            "BillingCity": "Boston",
+            "BillingCountry": "United States",
+            "BillingPostalCode": "02118",
+            "BillingState": "MA",
+            "BillingStreet": "72 East Concord Street",
+            "Industry": "Insurance",
+            "Name": "Acme, Inc.",
+            "Phone": "8883636899"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef24"
+            },
+            "BillingCity": "Cook",
+            "BillingCountry": "United States",
+            "BillingState": "MA",
+            "BillingStreet": "1419 Gunderson Ave",
+            "Industry": "Finance",
+            "Name": "Acme Real Estate",
+            "Phone": "8883636889",
+            "ShippingCity": "Cook",
+            "ShippingState": "MA",
+            "ShippingStreet": "1419 Gunderson Ave"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef25"
+            },
+            "BillingCity": "Cambridge",
+            "BillingState": "MA",
+            "BillingStreet": "240 E 3rd Ave",
+            "Industry": "Technology",
+            "Name": "Acme Global",
+            "Phone": "9883636888",
+            "ShippingCity": "Cambridge",
+            "ShippingState": "MA",
+            "ShippingStreet": "240 E 3rd Ave"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef26"
+            },
+            "BillingCity": "Lowell",
+            "BillingPostalCode": "97233",
+            "BillingState": "MA",
+            "BillingStreet": "16909 SE Alder St",
+            "Industry": "Technology",
+            "Name": "ACME Technologies",
+            "Phone": "8783636888",
+            "ShippingCity": "Lowell",
+            "ShippingPostalCode": "97233",
+            "ShippingState": "MA",
+            "ShippingStreet": "16909 SE Alder St"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef27"
+            },
+            "BillingCity": "Boston",
+            "BillingState": "MA",
+            "Industry": "Technology",
+            "Name": "Acme United Corporation.",
+            "Phone": "8883636888",
+            "ShippingCity": "Boston",
+            "ShippingState": "MA"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef28"
+            },
+            "BillingCity": "Toronto",
+            "BillingCountry": "Canada",
+            "BillingPostalCode": "L4B 1Y3",
+            "BillingState": "Ontario",
+            "BillingStreet": "150 Chestnut Street",
+            "Description": "GBM is the worldwide leader in technology news and information on the Web and the producer of the longest-running and farthest-reaching television shows about technology. GBM's network of sites combines breakthrough interactive technology with engaging content and design and is consistently ranked as the Internet's leading content network in terms of both audience size and revenue, serving millions of users each day. The company's television programming is broadcast by the USA Network and the Sci-Fi Channel to more than 70 million households and is syndicated to broadcast television stations in the nation's top 120 markets, including the top 10 markets.",
+            "Industry": "Media",
+            "Name": "Global Media",
+            "NumberOfEmployees": 14668,
+            "Phone": "(905) 555-1212",
+            "ShippingCity": "Toronto",
+            "ShippingCountry": "Canada",
+            "ShippingPostalCode": "L4B 1Y3",
+            "ShippingState": "Ontario",
+            "ShippingStreet": "150 Chestnut Street",
+            "Type": "Prospect"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef29"
+            },
+            "AnnualRevenue": 100000000,
+            "BillingCity": "New York",
+            "BillingCountry": "USA",
+            "BillingPostalCode": "31349",
+            "BillingState": "NY",
+            "BillingStreet": "10 Main Rd.",
+            "Fax": "(212) 555-5555",
+            "Industry": "Manufacturing",
+            "Name": "Acme",
+            "NumberOfEmployees": 680,
+            "Phone": "(212) 555-5555",
+            "ShippingCity": "New York",
+            "ShippingCountry": "USA",
+            "ShippingPostalCode": "31349",
+            "ShippingState": "NY",
+            "ShippingStreet": "10 Main Rd.",
+            "Type": "Prospect"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef30"
+            },
+            "BillingCity": "San Francisco",
+            "BillingCountry": "USA",
+            "BillingPostalCode": "94105",
+            "BillingState": "CA",
+            "BillingStreet": "The Landmark @ One Market, Suite 300",
+            "Description": "Founded in March 1999, salesforce.com (http://www.salesforce.com) builds and delivers customer relationship management (CRM) applications as scalable online services. The salesforce.com product suite - Team Edition, Professional Edition, Enterprise Edition, Wireless Edition and Offline Edition - gives companies of all sizes a complete 360-degree view of the customer. The company's award-winning CRM solutions provide integrated online sales force automation, customer service and support management, and marketing automation applications to help companies meet the complex challenges of global customer communication. Salesforce.com has received considerable recognition in the industry, including Editors' Choice and two Five-Star ratings from PC Magazine, two Deploy Awards from InfoWorld, Red Herring 100, Upside Hot 100, Investor's Choice Award from Enterprise Outlook, Editors' Choice from TMCLabs, Top 10 CRM Implementation from Aberdeen Group, and InfoWorld's 2001 CRM Technology of the Year. Founded in 1999, salesforce.com is headquartered in San Francisco, with offices in Europe and Asia.",
+            "Fax": "(415) 901-7040",
+            "Industry": "Technology",
+            "Name": "salesforce.com",
+            "Phone": "(415) 901-7000",
+            "ShippingCity": "San Francisco",
+            "ShippingCountry": "USA",
+            "ShippingPostalCode": "94105",
+            "ShippingState": "CA",
+            "ShippingStreet": "The Landmark @ One Market, Suite 300",
+            "Type": "Customer",
+            "Website": "http://www.salesforce.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef31"
+            },
+            "Name": "Miller Group",
+            "Type": "Customer",
+            "Website": "millerfin.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef32"
+            },
+            "Name": "Jenkins Trader"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef33"
+            },
+            "Name": "Superstore"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef34"
+            },
+            "BillingCity": "Washington",
+            "BillingCountry": "United States",
+            "BillingPostalCode": "20024",
+            "BillingState": "DC",
+            "BillingStreet": "600 Maryland Avenue Southwest",
+            "Industry": "Government",
+            "Name": "U.S. Postal Service",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef35"
+            },
+            "Name": "Santander Bank",
+            "Phone": "1987654321",
+            "Type": "Customer",
+            "Website": "www.smp.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef36"
+            },
+            "Industry": "Technology",
+            "Name": "Maven Operations",
+            "NumberOfEmployees": 30000,
+            "Phone": "(189) 145-6387",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef37"
+            },
+            "AnnualRevenue": 35600000000,
+            "Description": "The Lufthansa Group is an aviation company with operations worldwide. In the financial year 2017, the Lufthansa Group generated revenue of EUR 35.6bn and employed an average of 128,856 staff. The structure of the business segments was adjusted in line with the three-pillar concept behind the corporate strategy at the beginning of the financial year. Since then, the Lufthansa Group has been organized into the business segments Network Airlines, Point-to-Point Airlines, Aviation Services (comprising the segments Logistics, MRO and Catering), and Additional Businesses and Group Functions.",
+            "Industry": "Transportation",
+            "Name": "Lufthansa Group",
+            "NumberOfEmployees": 129424,
+            "Type": "Customer",
+            "Website": "https://www.lufthansagroup.com/en/company.html"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef38"
+            },
+            "Name": "Pizza Hut",
+            "Phone": "+34934564672"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef39"
+            },
+            "Industry": "Manufacturing",
+            "Name": "Ohana Ventures",
+            "Phone": "(123) 456-7890",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef40"
+            },
+            "Industry": "Banking",
+            "Name": "Citibank",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef41"
+            },
+            "Industry": "Healthcare",
+            "Name": "Pfizer Inc",
+            "Phone": "555284387",
+            "Type": "Customer",
+            "Website": "pfizer.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef42"
+            },
+            "Name": "Jiffy Plc"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef43"
+            },
+            "AnnualRevenue": 50000000,
+            "BillingCity": "Houston",
+            "BillingState": "TX",
+            "Industry": "Transportation",
+            "Name": "Northside Lexus",
+            "Phone": "713-555-1111",
+            "Type": "Partner"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef44"
+            },
+            "Industry": "Manufacturing",
+            "Name": "Tata Steel",
+            "NumberOfEmployees": 10000,
+            "Phone": "8668412348",
+            "Type": "Customer"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef45"
+            },
+            "Name": "Universal Exports"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef46"
+            },
+            "Name": "Future Group Limited"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef47"
+            },
+            "Name": "Conrad labs"
+        }
+    ]
+}
